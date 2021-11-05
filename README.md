@@ -1,2 +1,2 @@
 # odin-recipes
-My projects from the theodinproject.com
+My recipe list project from the theodinproject.com
